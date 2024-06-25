@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@hookform/resolvers": "^3.6.0",
+    "@mui/lab": "^5.0.0-alpha.170",
+    "@mui/material": "^5.15.20",
+    "@mui/x-date-pickers": "^7.7.1",
+    "@types/react-router-dom": "^5.3.3",
+    "date-fns": "^3.6.0",
+    "react-hook-form": "^7.52.0",
+    "react-router-dom": "^6.24.0",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@hookform/devtools": "^4.3.1"
+  }
+}
