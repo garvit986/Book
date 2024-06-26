@@ -12,3 +12,6 @@ npm install @mui/material @emotion/react @emotion/styled react-hook-form yup @ho
 
 # Hookforms
 npm install -D @hookform/devtools
+
+# Yup Dependency
+npm install @mui/material @emotion/react @emotion/styled react-hook-form yup @hookform/resolvers
